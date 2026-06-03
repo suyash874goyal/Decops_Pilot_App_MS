@@ -1,4 +1,4 @@
-# DevOpsPilot AI – Sprint & Task Management Platform
+# DevOpsPilot AI – Task Management Application
 
 DevOpsPilot AI is a centralized project and sprint management solution built using Microsoft Power Platform. The application enables managers to create projects, assign tasks, monitor progress, and review employee work logs, while employees can update their daily work and track assigned tasks.
 
